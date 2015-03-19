@@ -1,0 +1,5 @@
+*.log
+*.out
+*.tmp
+dream_task_apisms_*
+*.tar.gz
